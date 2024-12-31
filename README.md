@@ -1,1 +1,30 @@
-Esta es mi página web
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Sitio Web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenido a Mi Sitio Web</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="html/contacto.html">Contacto</a></li>
+                <li><a href="html/tema.html">Tema</a></li>
+                <li><a href="html/grado.html">Grado</a></li>
+                <li><a href="html/acerca de mi.html">Acerca de Mí</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <h2>Información General</h2>
+        <p>Este sitio contiene información sobre diferentes temas relacionados con mi grado, intereses y más.</p>
+    </main>
+    <footer>
+        <p>© 2024 Mi Sitio Web</p>
+    </footer>
+</body>
+</html>
